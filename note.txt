@@ -1,0 +1,7 @@
+
+#vuex 命令
+npm install vuex --save
+npm install es6-promise --save
+
+#vue route命令
+npm install vue-router
